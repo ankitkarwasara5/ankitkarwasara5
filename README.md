@@ -42,8 +42,3 @@ evaluation/revision loop
 
 `Python` · `PyTorch` · `FastAPI` · `Docker` · `Ollama` · `Groq` · `LangGraph` ·
 `ChromaDB` · `Pydantic` · `SQLite` · `Ruff` · `Pytest`
-
-## What I'm looking for
-
-Remote ML/AI engineering work focused on **evaluation, agentic systems, ML infrastructure,
-and reliable LLM applications**.
